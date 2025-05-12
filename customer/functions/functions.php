@@ -1,6 +1,6 @@
 <?php
 //Establishing the connection
-$db=mysqli_connect("localhost","root","","myshop");
+$conn = mysqli_connect('switchyard.proxy.rlwy.net', 'root', 'xrtqJXCOdmOqHXVWIvhmfFGeptOUowUf', 'railway', 20381);
 
 //function for getting the IP address
 function getRealIpAddr() {
