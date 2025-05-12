@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # eCommerce-Furniture-website
 eCommerce website using PHP and frontend programming languages.
 This is an eCommerce website (Furniture shop) made using PHP, HTML, CSS, Javascript, Jquery as the main programming languages.
@@ -18,3 +19,7 @@ Steps to install:-
 4) Check your login credentials of your apache server with the one written in includes/db.php and in functions.php file.
 5) Just access the website by going to web browser and typing the url.
 ----------------------------HAVE FUN---------------------------------
+=======
+# FurniOra
+sem 4 project
+>>>>>>> a129baadf6ddd0cc8838b98c43fa1198795101ef
